@@ -1,0 +1,2 @@
+(self.webpackChunkfastland_react_app=self.webpackChunkfastland_react_app||[]).push([[6141],{89827:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return c}});var a=t(67294),r=t(53083),l=t(45755),u=t(63653);function c(){return a.createElement(u.FE,{innerPage:!0},a.createElement(r.LU,null),a.createElement(l.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-blog-blogs-reguler-js-15da09599be4b56f6339.js.map
